@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tobycaulk.test.TriangleTypeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-05-06T20:02:35" hostname="Toby-Simones-MacBook.local" time="0.014">
+  <properties/>
+  <testcase name="calculateEquilateral" classname="com.tobycaulk.test.TriangleTypeTest" time="0.005"/>
+  <testcase name="calculateScalene" classname="com.tobycaulk.test.TriangleTypeTest" time="0.002"/>
+  <testcase name="calculateIscosceles" classname="com.tobycaulk.test.TriangleTypeTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

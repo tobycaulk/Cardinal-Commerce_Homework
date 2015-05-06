@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tobycaulk.test.TriangleFileParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-05-06T20:02:35" hostname="Toby-Simones-MacBook.local" time="0.029">
+  <properties/>
+  <testcase name="testFileLoading" classname="com.tobycaulk.test.TriangleFileParserTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
